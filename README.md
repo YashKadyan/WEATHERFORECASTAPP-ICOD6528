@@ -198,3 +198,16 @@ In conclusion, the Weather Forecast Application efficiently provides users with 
 
 # OUTPUT
 
+![Weather Forecast Application Reponsive Design](https://github.com/YashKadyan/WEATHERFORECASTAPP-ICOD6528/assets/66464974/d7946ea2-0b03-4e88-89f6-cebdad40405f)
+
+![Enter City Name for Getting Weather Forecast](https://github.com/YashKadyan/WEATHERFORECASTAPP-ICOD6528/assets/66464974/90642948-5d31-493e-a5cc-7b5e51ad35e9)
+
+![Getting the Current Weather Forecast and 4-Day Weather Forecast of the Entered City Name](https://github.com/YashKadyan/WEATHERFORECASTAPP-ICOD6528/assets/66464974/3bd6a807-f537-491a-843b-60f206a41fb6)
+
+![Denied Permission to Access the User's Current Location](https://github.com/YashKadyan/WEATHERFORECASTAPP-ICOD6528/assets/66464974/dc30880d-ff5b-4ad5-a121-aeb43e5a5eeb)
+
+![Alerting the User that Geolocation Request is Denied!](https://github.com/YashKadyan/WEATHERFORECASTAPP-ICOD6528/assets/66464974/c7f7dc61-d6b9-4205-b760-f68e9e794e2d)
+
+![Allowing Permission to Access the User's Current Location](https://github.com/YashKadyan/WEATHERFORECASTAPP-ICOD6528/assets/66464974/cda80bda-d20b-4fec-a7e7-563e8735fb87)
+
+![Getting the Current Weather Forecast and 4-Day Weather Forecast of the User's Current Location](https://github.com/YashKadyan/WEATHERFORECASTAPP-ICOD6528/assets/66464974/36e2627f-3e82-4fe3-8a4f-4769cabae8dd)
